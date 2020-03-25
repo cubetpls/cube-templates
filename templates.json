@@ -1,8 +1,6 @@
 {
   "version" : 1,
   "templates" : {
-    "default": "https://github.com/ntt360/cube-tpl-default.git",
-    "news1"  : "https://github.com/ntt360/cube-tpl-news1.git",
-    "news2"  : "https://github.com/ntt360/cube-tpl-news2.git"
+    "2pic6text": "https://github.com/ntt360/cube-tpl-news-2pic6text.git"
   }
 }
