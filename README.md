@@ -9,4 +9,4 @@
 * 模板工程必须是可公开访问的项目
 
 ## 提交模板
-如有需要提交模板到官方库，可以 fork 该项目添加模板工程项目地址，或[在此](https://github.com/ntt360/cube-templates/issues/1)提交。
+如有需要提交模板到官方库，可以 fork 该项目添加模板工程项目地址，或[在此](https://github.com/cubetpls/cube-templates/issues/1)提交。
